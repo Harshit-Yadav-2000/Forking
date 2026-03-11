@@ -1,3 +1,3 @@
 # Shell
 Schell Scripts
-Updating the script
+Updated the script
